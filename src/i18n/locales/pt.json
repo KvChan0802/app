@@ -1,0 +1,143 @@
+{
+  "maphere": "Sua localização atual é na ",
+  "news": {
+    "title": "Notícias",
+    "more": "Mais",
+    "more-news": "Mais Notícias"
+  },
+  "welcome-to-msc": "Bem-vindo ao Centro de Ciência de Macau",
+  "visiting-guides": {
+    "title": "Guias de Visita",
+    "address": "Endereço",
+    "bus": "Transporte público",
+    "bus-details": "Linha de ônibus 3A, 8, 10A, 12 e 17S em direção à Estátua Kun Iam pode chegar ao Centro de Ciência de Macau",
+    "public-carpark": "estacionamento público",
+    "public-carpark-details": "O Centro de Ciência de Macau tem um parque de estacionamento público 24 horas, para mais informações, consulte o website da DSAT.",
+    "the-address": "Macao, Avenida Dr. Sun Yat-sen"
+  },
+  "opening-hours": {
+    "wednesday": "Quarta-feira",
+    "wednesday-hours": "10:00 - 18:00",
+    "friday": "Sexta-feira",
+    "friday-hours": "10:00 - 18:00",
+    "saturday": "Sábado",
+    "saturday-hours": "10:00 - 18:00",
+    "sunday": "Domingo",
+    "sunday-hours": "10:00 - 18:00",
+    "thursday": "Quinta-feira",
+    "thursday-hours": "Desligado",
+    "monday": "Segunda-feira",
+    "monday-hours": "10:00 - 18:00",
+    "title": "HORÁRIO DE FUNCIONAMENTO",
+    "tuesday": "Terça-feira",
+    "tuesday-hours": "10:00 - 18:00"
+  },
+  "msc": {
+    "title": "Centro de Ciência de Macau",
+    "title-short": "MSC",
+    "welcome": "Bem-vindo ao Centro de Ciência de Macau!",
+    "bye": "Obrigado por visitar o Centro de Ciência de Macau!"
+  },
+  "language": {
+    "chinese": "中文",
+    "english": "English",
+    "portuguese": "Português",
+    "zh": "中文",
+    "en": "English",
+    "pt": "Português"
+  },
+  "login-first":{
+    "not-login":"Not logged in",
+    "login-first":"Please login first",
+    "cancel":"cancel",
+    "login":"login"
+  },
+  "profile": {
+    "not-loggedin": "Não logado",
+    "dummy-username": "鄭宇哲",
+    "languages": {
+      "title": "Linguagem",
+      "select": "Selecione o idioma"
+    },
+    "last-visit": {
+      "date": "Data",
+      "duration": "Duração",
+      "title": "Ultima Visita"
+    },
+    "settings": {
+      "title": "Configurações"
+    },
+    "stat": {
+      "exhibitions-visited": "Exposições Visitadas",
+      "title": "Estatisticas",
+      "total-duration": "Duração total",
+      "works-visited": "Exposições Visitadas"
+    },
+    "title": "Conta",
+    "login": {
+      "password": "Email Entrar",
+      "facebook": "Facebook Entrar",
+      "google": "Login do Google",
+      "sms": "Entrar por SMS",
+      "wechat": "WeChat Entrar",
+      "title": "Conta de login"
+    },
+    "messages": {
+      "message": "mensagens",
+      "title": "Minhas Mensagens"
+    },
+    "account": {
+      "title": "Conta",
+      "password": "Email",
+      "facebook.com": "Facebook",
+      "google.com": "Google",
+      "sms": "SMS",
+      "wechat": "WeChat",
+      "logout": "Sair",
+      "phone": "SMS"
+    }
+  },
+  "explore": {
+    "exploring": "Explorando",
+    "title": "Explorar",
+    "tickets": {
+      "available": "Ingressos Disponíveis",
+      "no-of-people": "Número de Pessoas",
+      "get": "Obter Bilhete",
+      "my-reservations": "Minhas Reservas",
+      "status": {
+        "waiting": "Por favor, chegue no horário",
+        "valid": "A entrada é permitida",
+        "invalid": "Reserva inválida"
+      },
+      "expired": "Expirado",
+      "quota": "{{quota}} cotas",
+      "get-ticket": "Obter Bilhete",
+      "notification-message": "A sua hora de marcação está a chegar. Pode dirigir-se à {{exhibition}}",
+      "check-mine": "Ver Reserva",
+      "error": {
+        "duplicated": "Você fez a sua reserva",
+        "failed": "A reserva falhou"
+      }
+    },
+    "checkin": {
+      "title": "Check in",
+      "arrived": "Você chegou",
+      "checkin": "Check in",
+      "name": "Nome",
+      "phone": "Telefone",
+      "success": "Check in com sucesso"
+    },
+    "error": {
+      "login": "Por favor, faça o login primeiro",
+      "required": "Por favor, preencha o campo"
+    }
+  },
+  "mymsc": {
+    "title": "Meu MSC"
+  },
+  "misc": {
+    "more": "Mais"
+  },
+  "cancel": "Cancelar"
+}

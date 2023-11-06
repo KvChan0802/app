@@ -1,0 +1,143 @@
+{
+  "maphere": "Your current location is in ",
+  "news": {
+    "title": "News",
+    "more": "More",
+    "more-news": "More news"
+  },
+  "opening-hours": {
+    "title": "OPENING HOURS",
+    "monday": "Monday",
+    "monday-hours": "10:00 - 18:00",
+    "tuesday": "Tuesday",
+    "tuesday-hours": "10:00 - 18:00",
+    "wednesday": "Wednesday",
+    "wednesday-hours": "10:00 - 18:00",
+    "thursday": "Thursday",
+    "thursday-hours": "Off",
+    "friday": "Friday",
+    "friday-hours": "10:00 - 18:00",
+    "saturday": "Saturday",
+    "saturday-hours": "10:00 - 18:00",
+    "sunday": "Sunday",
+    "sunday-hours": "10:00 - 18:00"
+  },
+  "visiting-guides": {
+    "title": "Visiting Guides",
+    "address": "Address",
+    "the-address": "Macao Science Center, Avenue Dr. Sun Yat-sen, Macau",
+    "bus": "Public Transportation",
+    "bus-details": "Bus route 3A, 8, 10A, 12 and 17S towards Kun Iam Statue can arrive Macau Science Center",
+    "public-carpark": "Public Carpark",
+    "public-carpark-details": "Macau Science Center has a 24 hours public carpark, for details, please refer to DSAT website."
+  },
+  "welcome-to-msc": "Welcome to Macau Science Center",
+  "msc": {
+    "title": "Macao Science Center",
+    "title-short": "MSC",
+    "welcome": "Welcome to Macao Science Center!",
+    "bye": "Thank you for visiting Macao Science Center!"
+  },
+  "language": {
+    "chinese": "中文",
+    "english": "English",
+    "portuguese": "Português",
+    "zh": "中文",
+    "en": "English",
+    "pt": "Português"
+  },
+  "login-first":{
+    "not-login":"Not logged in",
+    "login-first":"Please login first",
+    "cancel":"cancel",
+    "login":"login"
+  },
+  "profile": {
+    "not-loggedin": "Not Logged In",
+    "dummy-username": "鄭宇哲",
+    "settings": {
+      "title": "Settings"
+    },
+    "languages": {
+      "title": "Language",
+      "select": "Select Language"
+    },
+    "last-visit": {
+      "title": "Last Visit",
+      "date": "Date",
+      "duration": "Duration"
+    },
+    "stat": {
+      "title": "Statistics",
+      "total-duration": "Total Duration",
+      "exhibitions-visited": "Exhibitions Visited",
+      "works-visited": "Exhibits Visited"
+    },
+    "title": "Account",
+    "login": {
+      "password": "Email Sign in",
+      "sms": "SMS Sign in",
+      "google": "Google Sign in",
+      "facebook": "Facebook Sign in",
+      "wechat": "WeChat Sign in",
+      "title": "Login Account"
+    },
+    "messages": {
+      "title": "My Messages",
+      "message": "Messages"
+    },
+    "account": {
+      "title": "Account",
+      "password": "Email",
+      "facebook.com": "Facebook",
+      "google.com": "Google",
+      "phone": "SMS",
+      "wechat": "WeChat",
+      "logout": "Logout",
+      "sms": "SMS"
+    }
+  },
+  "mymsc": {
+    "title": "My MSC"
+  },
+  "explore": {
+    "title": "Explore",
+    "exploring": "Exploring",
+    "tickets": {
+      "available": "Tickets Available",
+      "no-of-people": "Number of People",
+      "get": "Get Ticket",
+      "my-reservations": "My Reservations",
+      "status": {
+        "waiting": "Please arrive on time",
+        "valid": "Entry is allowed",
+        "invalid": "Invalid reservation"
+      },
+      "expired": "Expired",
+      "quota": "{{quota}} quotas",
+      "get-ticket": "Get Ticket",
+      "notification-message": "Your appointment time is approaching. You can proceed to {{exhibition}}",
+      "check-mine": "View Reservation",
+      "error": {
+        "duplicated": "You have made your reservation",
+        "failed": "Reservation failed"
+      }
+    },
+    "checkin": {
+      "title": "Check in",
+      "arrived": "You have arrived",
+      "checkin": "Check in",
+      "name": "Name",
+      "phone": "Phone",
+      "success": "Check in successful"
+    },
+    "error": {
+      "login": "Please login first",
+      "required": "Please fill in all fields"
+    }
+  },
+  "misc": {
+    "more": "More"
+  },
+  "cancel": "Cancel"
+}

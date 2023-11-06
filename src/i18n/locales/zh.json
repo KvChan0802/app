@@ -1,0 +1,143 @@
+{
+  "maphere": "你現在的位置在",
+  "welcome-to-msc": "歡迎光臨澳門科學館",
+  "news": {
+    "title": "最新消息",
+    "more": "更多",
+    "more-news": "更多最新消息"
+  },
+  "opening-hours": {
+    "title": "開放時間",
+    "monday": "星期一",
+    "monday-hours": "10:00 - 18:00",
+    "tuesday": "星期二",
+    "tuesday-hours": "10:00 - 18:00",
+    "wednesday": "星期三",
+    "wednesday-hours": "10:00 - 18:00",
+    "friday": "星期五",
+    "friday-hours": "10:00 - 18:00",
+    "saturday": "星期六",
+    "saturday-hours": "10:00 - 18:00",
+    "sunday": "星期日",
+    "sunday-hours": "10:00 - 18:00",
+    "thursday": "星期四",
+    "thursday-hours": "休館"
+  },
+  "visiting-guides": {
+    "title": "交通指南",
+    "address": "地址",
+    "bus": "公共汽車",
+    "bus-details": "往觀音像方向的3A、8、10A、12及17S號巴士可抵達澳門科學館",
+    "public-carpark": "公眾停車場",
+    "public-carpark-details": "澳門科學館設有24小時的地下公眾收費停車場，該停車場為澳門交通事務局所管轄。最新消息請參閱澳門交通事務局網站。",
+    "the-address": "澳門孫逸仙大馬路澳門科學館"
+  },
+  "msc": {
+    "title": "澳門科學館",
+    "title-short": "科學館",
+    "welcome": "歡迎光臨澳門科學館！",
+    "bye": "歡迎再次光臨！"
+  },
+  "language": {
+    "chinese": "中文",
+    "english": "English",
+    "portuguese": "Português",
+    "zh": "中文",
+    "en": "English",
+    "pt": "Português"
+  },
+  "login-first":{
+    "not-login":"未登入",
+    "login-first":"請先登入",
+    "cancel":"取消",
+    "login":"登入"
+  },
+  "profile": {
+    "not-loggedin": "未登入",
+    "dummy-username": "鄭宇哲",
+    "languages": {
+      "title": "語言",
+      "select": "選擇語言"
+    },
+    "last-visit": {
+      "date": "日期",
+      "duration": "停留時間",
+      "title": "上次參觀"
+    },
+    "settings": {
+      "title": "設定"
+    },
+    "stat": {
+      "exhibitions-visited": "已參觀展館",
+      "title": "統計數據",
+      "total-duration": "總停留時間",
+      "works-visited": "已參觀展品"
+    },
+    "title": "我的帳號",
+    "login": {
+      "password": "電郵登入",
+      "facebook": "Facebook 登入",
+      "google": "Google 登入",
+      "sms": "短訊登入",
+      "wechat": "微信登入",
+      "title": "登入帳號"
+    },
+    "messages": {
+      "message": "訊息",
+      "title": "我的訊息"
+    },
+    "account": {
+      "title": "帳號",
+      "password": "電郵",
+      "facebook.com": "Facebook",
+      "google.com": "Google",
+      "phone": "短訊",
+      "wechat": "微信",
+      "logout": "登出",
+      "sms": "SMS"
+    }
+  },
+  "explore": {
+    "exploring": "探索中",
+    "title": "探索",
+    "tickets": {
+      "available": "有現場籌可供索取",
+      "no-of-people": "請填寫人數",
+      "get": "取籌",
+      "my-reservations": "我的預約籌",
+      "status": {
+        "waiting": "請按時入場",
+        "valid": "可以入場",
+        "invalid": "預約籌已失效"
+      },
+      "expired": "時間已過",
+      "quota": "{{quota}} 個名額",
+      "get-ticket": "取籌",
+      "notification-message": "你的預約時間快到了，可以動身前往{{exhibition}}了",
+      "error": {
+        "failed": "預約失敗",
+        "duplicated": "你已經預約過了"
+      },
+      "check-mine": "查看預約"
+    },
+    "checkin": {
+      "title": "活動簽到",
+      "arrived": "你已到達場地",
+      "checkin": "簽到",
+      "name": "姓名",
+      "phone": "電話號碼",
+      "success": "簽到成功"
+    },
+    "error": {
+      "login": "請先登入",
+      "required": "請填寫所有欄位"
+    }
+  },
+  "mymsc": {
+    "title": "我的科學館"
+  },
+  "misc": {
+    "more": "更多"
+  },
+  "cancel": "取消"
+}
